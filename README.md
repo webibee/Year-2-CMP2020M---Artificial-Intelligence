@@ -128,9 +128,7 @@ Analysis of the learning curve shows that error decreases rapidly in the first 1
 
 **Recommended stopping point:** 100 epochs
 
-## Grade Achieved: 91%
 
-This grade reflects correct implementation of backpropagation from scratch, accurate weight initialization, proper activation functions, and thorough analysis of training termination criteria.
 
 
 
